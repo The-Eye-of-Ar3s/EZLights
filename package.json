@@ -1,0 +1,9 @@
+{
+    "name": "EZ_Light",
+    "author": "TheEyeOfAres",
+    "license": "Attribution-ShareAlike 4.0 International",
+    "main": "src/mod.js",
+    "version": "3.0.0",
+    "akiVersion": "3.4.1",
+    "devdependencies": {}
+}
