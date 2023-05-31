@@ -4,6 +4,6 @@
     "license": "Attribution-ShareAlike 4.0 International",
     "main": "src/mod.js",
     "version": "1.0.0",
-    "akiVersion": "3.4.1",
+    "akiVersion": "3.5.7",
     "devdependencies": {}
 }
